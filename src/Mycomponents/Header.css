@@ -1,0 +1,45 @@
+/* *{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding: 20px;
+    height: 80px;
+    justify-content: space-around;
+    border: 1px solid black;
+    background-color: black;
+}
+.logo{
+    img{
+        width: 100px;
+        height: 50px;
+        border-radius: 10px;
+    }
+}
+.navbar{
+    padding: 70px;
+    a{
+        padding: 30px;
+        text-decoration: none;
+        font-size: 20px;
+        color: orange;
+    }   
+}
+.navbar :hover{
+    color: red;
+}
+.login{
+    padding: 8px 12px;
+    background-color: darkorange;
+    color: white;
+    border-radius: 10px;   
+    border: none;
+}
+.login:hover{
+    background-color: red;
+    border: none;
+}
+     */
